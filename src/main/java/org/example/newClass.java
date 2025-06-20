@@ -7,4 +7,8 @@ public class newClass {
     void createBranch(){
         System.out.println("new branch dev");
     }
+
+    void createCommit(){
+        System.out.println("commit ");
+    }
 }
